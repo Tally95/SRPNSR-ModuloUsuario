@@ -26,6 +26,3 @@ $controller = 'login';
 
 ?>
 
-//Esto es una prueba
-//Esto es una prueba2
-//Esto es una prueba3
